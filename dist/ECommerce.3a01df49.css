@@ -1,0 +1,44 @@
+.navbar {
+  border-bottom: 1px solid #000;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  display: flex;
+}
+
+.menuitems {
+  gap: 20px;
+  list-style: none;
+  display: flex;
+}
+
+.Pcard {
+  padding: 20px;
+}
+
+.Pcard h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: normal;
+}
+
+.product-list {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  display: flex;
+}
+
+.product {
+  text-align: center;
+  border: 1px solid #ddd;
+  width: 220px;
+  padding: 10px;
+}
+
+.product img {
+  object-fit: contain;
+  width: 120px;
+  height: auto;
+}
+/*# sourceMappingURL=ECommerce.3a01df49.css.map */
